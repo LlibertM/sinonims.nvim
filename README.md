@@ -2,6 +2,8 @@
 
 Plugin de Neovim per a consultar el *Diccionari de sinònims d'Albert Jané* fora de línia i directament des de l'editor.
 
+Permet consultar els sinònims de la paraula sota el cursor o d'un text seleccionat en mode visual.
+
 ## Crèdits
 
 Les dades utilitzades per aquest *plugin* provenen de la tercera edició en línia del *Diccionari de sinònims d'Albert Jané*, publicada per la Secció Filològica de l'Institut d'Estudis Catalans i accessible des del web <https://sinonims.iec.cat>.
