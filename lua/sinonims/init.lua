@@ -2,7 +2,7 @@
 
 local M = {}
 
-local titol = "Diccionari de sinònims - Albert Jané"
+local titol = "Diccionari de sinònims d'Albert Jané"
 
 local config = {
 	width = 60,
