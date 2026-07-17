@@ -13,8 +13,8 @@ local config = {
 	width = 60,
 	height = 10,
 	format_titol = "@markup.heading", -- (hl_group)
-	format_terme = "Title",          -- (hl_group)
-	format_categoria = "Comment",    -- (hl_group)
+	format_terme = "Title", -- (hl_group)
+	format_categoria = "Comment", -- (hl_group)
 }
 
 local function centrar(line)

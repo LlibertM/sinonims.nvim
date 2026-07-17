@@ -4,6 +4,19 @@ Plugin de Neovim per a consultar el *Diccionari de sinònims d'Albert Jané* for
 
 Permet consultar els sinònims de la paraula sota el cursor o d'un text seleccionat en mode visual.
 
+## Instal·lació
+
+### [lazy.nvim](https://github.com/folke/lazy.nvim)
+
+```lua
+{
+    "LlibertM/sinonims.nvim",
+    config = function()
+        require("sinonims").setup()
+    end,
+}
+```
+
 ## Crèdits
 
 Les dades utilitzades per aquest *plugin* provenen de la tercera edició en línia del *Diccionari de sinònims d'Albert Jané*, publicada per la Secció Filològica de l'Institut d'Estudis Catalans i accessible des del web <https://sinonims.iec.cat>.
@@ -20,4 +33,3 @@ Aquestes dades s'han processat i adaptat al format utilitzat pel *plugin* `sinon
 
 - Albert Jané i Riera — autor.
 - Institut d'Estudis Catalans — edició en línia.
-
