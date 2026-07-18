@@ -4596,9 +4596,9 @@ amansir #v.
  amansar, domar, domtar, domesticar, mitigar, calmar, apaivagar, desbravar, desembravir.
 \
 amant ¹ #adj. i m. i f.
- afeccionat, apassionat, diletant, entusiasta, admirador.
+ 1. afeccionat, apassionat, diletant, entusiasta, admirador.
  2. amorós, enamorat, adorador.
- afeccionada, apassionada, diletant, entusiasta, admiradora.
+ 1. afeccionada, apassionada, diletant, entusiasta, admiradora.
  2. amorosa, enamorada, adoradora.
 amant ² #m. i f.
  amistançat, amic, drut.
@@ -27033,7 +27033,7 @@ dependent ² | dependenta #m. i f.
 dependre #v.
  1. depenjar, subordinar-se, supeditar-se, resultar.
  2. pertànyer, correspondre.
- 4. servir, obeir.
+ 3. servir, obeir.
 \
 dependència #f.
  1. subordinació, supeditació, submissió, subjecció, condicionament, lligam, ordre, llei.
@@ -39493,7 +39493,7 @@ escarransiment #m.
  2. esquifidesa, esquifiment.
 \
 escarransit ¹ | escarransida #adj.
- escasser, escàs.
+ 1. escasser, escàs.
  2. esquifit, escanyolit, esmerlit, magristó, secardí.
  1. escassera, escassa.
  2. esquifida, escanyolida, esmerlida, magristona, secardina.
@@ -44316,7 +44316,7 @@ fabricant #m. i f.
 \
 fabricar #v.
  1. confeccionar, facturar, elaborar, produir, manufacturar, fer, obtenir, transformar.
- 3. construir, edificar, bastir, aixecar, erigir, alçar.
+ 2. construir, edificar, bastir, aixecar, erigir, alçar.
 \
 fabril #adj.
  industrial.
@@ -50895,7 +50895,7 @@ guia ¹ #m. i f.
  2. —.
  3. mentora, instructora, orientadora.
 guia ² #f.
- itinerari, trajecte.
+ 1. itinerari, trajecte.
  2. guiatge, guiament, direcció, orientació, conducció.
  3. nord.
  4. permís, llicència, salconduit, passaport.
@@ -56450,7 +56450,7 @@ interès #m.
  1. profit, avantatge, guany, benefici, utilitat, lucre, fruit, rendiment, producte, negoci.
  2. egoisme, zel, conveniència, afany, ànsia, deler.
  3. dividend, tant per cent, percentatge, rèdit, renda, cens, usura.
- 5. atenció, inclinació, simpatia, curiositat, afecte.
+ 4. atenció, inclinació, simpatia, curiositat, afecte.
 \
 interí ¹ | interina #adj.
  provisional, accidental, transitori.
@@ -56475,8 +56475,8 @@ intimació #f.
 \
 intimar #v.
  1. notificar, fer saber, assabentar, noticiar, comunicar, oficiar, participar, avisar, ennovar, anunciar, donar a conèixer, declarar, convocar.
- 3. ordenar, comminar, requerir, exigir, imposar, prescriure.
- 4. tractar, freqüentar, fer-se, relacionar-se.
+ 2. ordenar, comminar, requerir, exigir, imposar, prescriure.
+ 3. tractar, freqüentar, fer-se, relacionar-se.
 \
 intimidació #f.
  amenaça, amenaçament, comminació, avís, ultimàtum, advertiment, coacció, imposició, atemoriment, desafiament, provocació, descoratjament.
@@ -63664,8 +63664,8 @@ molsut | molsuda #adj.
  carnuda, polposa.
 \
 molt ¹ #adv.
- ben, altament, immensament, granment, extremament, enormement, infinitament, summament, en alt grau.
- 3. a betzef, a balquena, a dojo, a tentipotenti, a pòtils, a escrúpols, a bell doll, a raig fet, a l'engròs.
+ 1. ben, altament, immensament, granment, extremament, enormement, infinitament, summament, en alt grau.
+ 2. a betzef, a balquena, a dojo, a tentipotenti, a pòtils, a escrúpols, a bell doll, a raig fet, a l'engròs.
 molt ² #adv.\
  (precedit de l'adverbi #no, i també en frases interrogatives i condicionals)
  gaire.
@@ -66720,7 +66720,7 @@ ofegar #v.
  3. impedir, parar, aturar, esmorteir, matar.
 \
 ofegar-se #v.
- negar-se, fer l'ànec.
+ 1. negar-se, fer l'ànec.
  2. asfixiar-se.
 \
 ofegor #f.
@@ -67776,14 +67776,14 @@ pagà ² | pagana #adj. i m. i f.
  gentil, idòlatra.
 \
 pagès ¹ | pagesa #adj. i m. i f.
- camperol, agricultor, cultivador, conrador, hortolà, segador, terrassà, llaurador, parcer, granger, jornaler.
+ 1. camperol, agricultor, cultivador, conrador, hortolà, segador, terrassà, llaurador, parcer, granger, jornaler.
  2. rústec.
- camperola, agricultora, cultivadora, conradora, hortolana, segadora, terrassana, llauradora, parcera, grangera, jornalera.
+ 1. camperola, agricultora, cultivadora, conradora, hortolana, segadora, terrassana, llauradora, parcera, grangera, jornalera.
  2. rústega.
 pagès ² | pagesa #m. i f.
- pagerol, mitger.
+ 1. pagerol, mitger.
  2. camalluent, aixafaterrossos.
- pagerola, mitgera.
+ 1. pagerola, mitgera.
  2. camalluenta, aixafaterrossos.
 pagès ³ | pagesa #adj.
  pagesívol.
@@ -68380,14 +68380,14 @@ paraulejar #v.
  parolejar, discursejar.
 \
 paraules #f. pl.
- històries, romanços, brocs, bravates, camàndules, cançons, falòrnies, raons, barbolla, xerrameca.
+ 1. històries, romanços, brocs, bravates, camàndules, cançons, falòrnies, raons, barbolla, xerrameca.
  2. lletra.
 \
 paravent #m.
  bastidor, resguard, mampara.
 \
 parc ¹ #m.
- jardí.
+ 1. jardí.
  2. magatzem, dipòsit.
 parc ² | parca #adj.
  moderat, sobri, auster, eixut, breu, rar.
@@ -69373,7 +69373,7 @@ pedreny #m.
  pedrer, païdor.
 \
 pedrer ¹ #m.
- païdor, pedreny.
+ 1. païdor, pedreny.
  2. giny, artefacte, canó.
 pedrer ² | pedrera #m. i f.
  pedraire.
@@ -70554,7 +70554,7 @@ pesat ² | pesada #adj. i m. i f.
  1. enfadós, enutjós, importú, emprenyador, inoportú, impertinent.
  2. lent, obès.
  1. enfadosa, enutjosa, importuna, emprenyadora, inoportuna, impertinent.
- 4. lenta, obesa.
+ 2. lenta, obesa.
 \
 pesca #f.
  pesquera, pesqueria.
@@ -70983,9 +70983,9 @@ pillard ¹ | pillarda #adj. i m. i f.
  lladre, bandit.
  lladre, bandida.
 pillard ² | pillarda #m. i f.
- pispa.
+ 1. pispa.
  2. xicotàs, pallard.
- pispa.
+ 1. pispa.
  2. xicotassa, pallarda.
 \
 pillatge #m.
@@ -77100,7 +77100,7 @@ rebedor #m.
 \
 rebel ¹ #adj.
  1. malcreient, díscol, ingovernable, indomable, contumaç, indòmit.
- 1. malcreient, díscola, ingovernable, indomable, contumaç, indòmita.
+ 2. malcreient, díscola, ingovernable, indomable, contumaç, indòmita.
 rebel ² #adj. i m. i f.
  1. rebec, desobedient, indòcil, contestatari, indisciplinat, revolucionari, esbojarrat.
  2. facciós, insurrecte, sediciós, amotinat, revoltat, insurgent.
@@ -83434,7 +83434,7 @@ segla #f.
 \
 seglar ¹ #adj.
  1. secular, mundanal.
- 1. secular, mundanal.
+ 2. secular, mundanal.
 seglar ² #adj. i m. i f.
  1. mundà.
  2. laic, civil.
@@ -92440,7 +92440,7 @@ umbràtic | umbràtica #adj.
 un ¹ | una #indef. espec.
  1. u.
  2. hom, un hom.
- una.
+ 1. una.
  2. —, —.
 un ² | una #adj.
  únic, indivís.
@@ -96810,9 +96810,9 @@ zíngar | zíngara #adj. i m. i f.
  presumpció, vanitat, arrogància, urc, fanfàrria, fatxenda, pretensions.
 \
 íntegre | íntegra #adj.
- sencer, total, complet, absolut, perfecte, enter, inalterat, intacte.
+ 1. sencer, total, complet, absolut, perfecte, enter, inalterat, intacte.
  2. honrat, just, recte, insubornable, incorruptible, integèrrim, probe.
- sencera, total, completa, absoluta, perfecta, entera, inalterada, intacta.
+ 1. sencera, total, completa, absoluta, perfecta, entera, inalterada, intacta.
  2. honrada, justa, recta, insubornable, incorruptible, integèrrima, proba.
 \
 ínterim #adv.
