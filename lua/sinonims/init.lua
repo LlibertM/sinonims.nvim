@@ -180,7 +180,7 @@ function M.lookup_word()
 		-- Per descartar guionets, treure el reflexiu o altres pronoms
 		terme, _ = terme:match("^(.-)%-(.*)$")
 
-		if not (terme == nil) then
+		if terme then
 			consultar(terme)
 		end
 	end
