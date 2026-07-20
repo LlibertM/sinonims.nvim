@@ -85,12 +85,18 @@ local function consultar(terme)
 			break
 		end
 
-		if line:match("^" .. terme) or line:match(" | " .. terme) then
+		if
+			vim.regex("^" .. terme .. "\\( [¹²³⁴⁵]\\)\\? [#|]"):match_str(line)
+			or vim.regex(" | " .. terme .. " #"):match_str(line)
+		then
 			found = true
 		end
 
 		if found then
-			if line:match("^" .. terme) or line:match(" | " .. terme) then
+			if
+				vim.regex("^" .. terme .. "\\( [¹²³⁴⁵]\\)\\? [#|]"):match_str(line)
+				or vim.regex(" | " .. terme .. " #"):match_str(line)
+			then
 				local paraula, tipus = line:match("^(.-) #(.*)$")
 
 				tipus = tipus:gsub("#", "")
@@ -139,7 +145,7 @@ local function consultar(terme)
 	file:close()
 
 	if not found then
-		return
+		return found
 	end
 
 	local buf = vim.api.nvim_create_buf(false, true)
@@ -159,6 +165,8 @@ local function consultar(terme)
 	}
 
 	vim.api.nvim_open_win(buf, true, opts)
+
+	return found
 end
 
 function M.lookup_word()
@@ -168,7 +176,14 @@ function M.lookup_word()
 		return
 	end
 
-	consultar(terme)
+	if not consultar(terme) then
+		-- Per descartar guionets, treure el reflexiu o altres pronoms
+		terme, _ = terme:match("^(.-)%-(.*)$")
+
+		if not (terme == nil) then
+			consultar(terme)
+		end
+	end
 end
 
 function M.lookup_selection()
@@ -182,6 +197,11 @@ function M.lookup_selection()
 end
 
 function M.setup()
+	-- per no separar paraules pel punt volat de la l·l
+	vim.opt.iskeyword:append("·")
+	-- per incloure els infinitius reflexius com a paraules senceres
+	vim.opt.iskeyword:append("-")
+
 	vim.api.nvim_create_user_command("Sinonim", function()
 		M.lookup_word()
 	end, {})
